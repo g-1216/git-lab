@@ -41,4 +41,13 @@ Author: g-1216 <gb630425@ohio.edu>
 Date:   Wed Sep 2 16:39:28 2026 -0400
 
     Initial commit
-9. 
+9. On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   answers.md
+10. No, the changes are not shown
+11. The terminal displays an error because github has changes that were not made locally
+12. Yes, the changes are shown
+13. .  ..  .git  .gitignore  README.md
